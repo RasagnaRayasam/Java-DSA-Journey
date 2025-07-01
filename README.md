@@ -24,7 +24,7 @@ I’m using this journey to:
 
 
 ## 🔗 Let’s Connect!
-- 💼 [LinkedIn](www.linkedin.com/in/rasagna-rayasam-749b1925a)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rasagna-rayasam-749b1925a/)
 
 ##
 
