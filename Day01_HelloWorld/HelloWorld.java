@@ -5,5 +5,4 @@ public class HelloWorld {
 }
 
 Output:
-
 Hello World
