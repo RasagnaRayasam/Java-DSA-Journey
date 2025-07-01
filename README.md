@@ -28,4 +28,4 @@ I’m using this journey to:
 
 ##
 
-## Thanks for visiting! More updates coming soon — one concept at a time 🧠💫
+### Thanks for visiting! More updates coming soon — one concept at a time 🧠💫
