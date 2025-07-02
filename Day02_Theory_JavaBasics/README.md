@@ -3,7 +3,7 @@
 Hey! Today was fully theory-based, but super productive 🙌  
 I focused on understanding the **core Java building blocks**, which will help me write cleaner and more professional code in the coming days 💻✨
 
----
+
 
 ## 🔍 Topics Covered
 
@@ -46,7 +46,7 @@ I focused on understanding the **core Java building blocks**, which will help me
   - `LocalDate`, `LocalTime`, and `LocalDateTime`
   - How to print current date and time
 
----
+
 
 ## 💭 Reflection
 
