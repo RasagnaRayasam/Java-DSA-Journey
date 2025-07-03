@@ -1,4 +1,4 @@
-# 💻 Day 3 – Java Operators, Conditionals & Loops (Theory Only)
+# 💻 Day 3 – Java Operators, Conditionals & Loops (Theory)
 
 Today I focused on the **theoretical understanding** of Java logic blocks like operators, conditionals, and loops.  
 Even though I didn’t get hands-on with code today, I went through concepts thoroughly and made mental notes for when I practice them.
@@ -9,7 +9,7 @@ Even though I didn’t get hands-on with code today, I went through concepts tho
 
 - 🔢 **Operators in Java**
   - Arithmetic, Relational, Logical, Assignment, Unary
-- 🔁 **Conditional Statements**
+- 🔁 **Conditional Statements** 
   - `if`, `else`, `else if`, `switch-case`
 - 🔁 **Loops**
   - `for`, `while`, `do-while`
