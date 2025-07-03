@@ -5,7 +5,7 @@ Even though I didn’t get hands-on with code today, I went through concepts tho
 
 
 
-## 📚 Topics Reviewed
+## 📚 Topics  Covered
 
 - 🔢 **Operators in Java**
   - Arithmetic, Relational, Logical, Assignment, Unary
@@ -22,7 +22,5 @@ Even though I didn’t get hands-on with code today, I went through concepts tho
 Didn’t get time to write code today, but I stayed on track and made sure I didn’t break the flow.  
 Hoping to implement all of these tomorrow with lots of practice problems and logic building 💪
 
-This is still Day 3 — and I’m proud I didn’t skip it entirely. Showing up is what matters 💙\
-
-Thank you
+This is still Day 3 — and I’m proud I didn’t skip it entirely. Showing up is what matters 💙
 
