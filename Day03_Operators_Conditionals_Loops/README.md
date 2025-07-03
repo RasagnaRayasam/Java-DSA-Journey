@@ -1,4 +1,4 @@
-# 💻 Day 3 – Java Operators, Conditionals & Loops (Theory)
+# 💻 Day 3 – Java Operators, Conditionals & Loops (Theory Only)
 
 Today I focused on the **theoretical understanding** of Java logic blocks like operators, conditionals, and loops.  
 Even though I didn’t get hands-on with code today, I went through concepts thoroughly and made mental notes for when I practice them.
