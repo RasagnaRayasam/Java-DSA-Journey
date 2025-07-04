@@ -3,6 +3,13 @@
 Today I focused on learning **Java methods**, one of the most important and reusable parts of Java programming.  
 I didn’t do problem-solving today as I’m traveling to Shirdi 🛕, but I made sure to study method syntax, types, and examples deeply.
 
+I covered deep theory on:
+
+- ✅ Java Methods (Static & Instance)
+- ✅ Access Modifiers (public, private, protected, default)
+- ✅ Command Line Arguments
+- ✅ Variable Arguments (Varargs)
+
 ## 📘 What Is a Method in Java?
 
 A **method** in Java is a block of code that performs a specific task.  
