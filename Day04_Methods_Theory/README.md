@@ -1,23 +1,27 @@
-# 🧠 Day 4 – Java Methods (Theory)
+🧠 **Day 4 – Java Methods (Theory)**  
+Today I focused on learning Java methods — one of the most powerful and reusable features in Java programming.
 
-Today I focused on learning **Java methods**, one of the most important and reusable parts of Java programming.  
-I didn’t do problem-solving today as I’m traveling to Shirdi 🛕, but I made sure to study method syntax, types, and examples deeply.
+Though I didn’t do problem-solving today (currently traveling to Shirdi 🛕), I made sure to stay consistent by deeply understanding method syntax, types, and usage.
 
-I covered deep theory on:
 
-- ✅ Java Methods (Static & Instance)
-- ✅ Access Modifiers (public, private, protected, default)
-- ✅ Command Line Arguments
-- ✅ Variable Arguments (Varargs)
 
-## 📘 What Is a Method in Java?
+### ✅ What I Covered
+- Java Methods (Static & Instance)
+- Access Modifiers (public, private, protected, default)
+- Command Line Arguments
+- Variable Arguments (Varargs)
 
-A **method** in Java is a block of code that performs a specific task.  
-It helps keep the code modular, reusable, clean, and easy to debug.
 
-## 💭 Reflection
-Today’s focus was fully on understanding how methods work, how to create different types, and how to call them.
-Even though I didn’t write problems, I now feel confident about using methods to organize logic.
 
-Being in Shirdi didn’t stop me — and I’m proud I stayed committed to the journey ✨
-This theory will directly help me in solving modular DSA problems starting tomorrow.
+📘 **What Is a Method in Java?**  
+A method in Java is a block of code that performs a specific task.  
+It helps keep code modular, reusable, clean, and easy to debug.
+
+
+
+💭 **Reflection**  
+Today’s focus was all about understanding how Java methods work — from declaration to execution. I didn’t solve problems, but I now feel confident enough to break down and write logic in modular pieces.
+
+Even while being in Shirdi, I stayed consistent — and I’m proud of that. ✨  
+This foundation will make tomorrow’s DSA problem-solving smoother and cleaner 💪
+
