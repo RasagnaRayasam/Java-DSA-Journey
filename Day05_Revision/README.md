@@ -2,7 +2,7 @@
 
 Today I took a step back to **revise and solidify everything I’ve learned so far** in my Java DSA journey. Instead of jumping to new concepts, I wanted to ensure that all the foundational topics are clear before diving into problems tomorrow.
 
----
+
 
 ## ✅ What I Revised Today
 
@@ -13,7 +13,6 @@ Today I took a step back to **revise and solidify everything I’ve learned so f
 - 💡 Command Line Arguments
 - 📦 Variable Arguments (Varargs)
 
----
 
 ## 💭 Reflection
 
@@ -24,16 +23,6 @@ Even without coding new problems, I made real progress by:
 - Rewriting handwritten notes,
 - Reviewing code examples,
 - And mentally mapping how these concepts interact.
-
----
-
-## 🎯 Next Up (Day 6 Preview)
-
-- Practice Java Methods (with static/instance problems)
-- Solve DSA questions using modular code
-- Start applying CLI and Varargs in real coding tasks
-
----
 
 📚 Every day counts — and today was about **reinforcing** what I’ve built so far.  
 Strong base = Strong growth! 💪✨
