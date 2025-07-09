@@ -1,0 +1,45 @@
+📅 Day 9 – Java DSA Journey
+✅ What I Did Today
+Practiced Java problems:
+
+✔️ Check if a number is Even or Odd
+
+✔️ Check if a number is Positive or Negative
+
+Explored and understood VS Code setup for Java
+
+Fixed issues related to running .java files inside folders
+
+Got comfortable using javac and java from terminal
+
+
+📚 Key Learnings
+🧠 Scanner input behavior in Java vs Python:
+
+In Java, Scanner reads input only once unless explicitly looped
+
+In Python, input() can be called infinitely — more flexible
+
+⚠️ In Java, we must close objects (like Scanner) to avoid warnings or memory leaks
+
+
+🔧 VS Code Setup Notes
+Understood how folders, class names, and file names should match
+
+Learned how to debug slow running or cached outputs in VS Code
+
+Figured out how .class files are generated and when to recompile
+
+
+💡 Concepts Revised
+if, else, else if conditions
+
+System.out.println() for output
+
+Scanner class for input
+
+File & folder naming conventions
+
+
+🦸‍♀️ “Bit by bit, byte by byte — I’m building mastery in Java!”
+💜 Great progress, Rasagnaaa! Keep it going strong 🔥✨
