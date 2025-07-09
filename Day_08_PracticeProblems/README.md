@@ -1,4 +1,4 @@
-# 🚀 Java DSA Journey – Day 7
+# 🚀 Java DSA Journey – Day 8
 
 ## 📅 Date: [Replace with today's date]
 
