@@ -4,6 +4,7 @@
 - Solved:
   - ✔ Check if number is Even or Odd
   - ✔ Check if number is Positive or Negative
+  - ✔ Sum of N Natural Numbers
 - Learnt how Java takes input using Scanner
 - Understood why Java input behaves differently from Python
 - Learnt to run Java from:
