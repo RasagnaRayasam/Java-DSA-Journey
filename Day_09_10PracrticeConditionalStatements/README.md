@@ -1,10 +1,26 @@
-# 🚀 Day 9,10 - Java DSA Journey
+# 🚀 Day 9-11 - Java DSA Journey
 
 ## ✅ What I Did
 - Solved:
   - ✔ Check if number is Even or Odd
   - ✔ Check if number is Positive or Negative
   - ✔ Sum of N Natural Numbers
+  - ✔ Sum of numbers in a given range  
+  - ✔Greatest of two numbers  
+  - ✔Greatest of the Three numbers  
+  - ✔Leap year or not  
+  - ✔Prime number  
+  - ✔Prime number within a given range  
+  - ✔Sum of digits of a number  
+  - ✔Reverse of a number  
+  - ✔Palindrome number  
+  - ✔Armstrong number  
+  - ✔Armstrong number in a given range  
+  - ✔Fibonacci Series up to nth term  
+  - ✔Find the Nth Term of the Fibonacci Series  
+  - ✔Factorial of a number  
+  - ✔Power of a number  
+  - ✔Factor of a number
 - Learnt how Java takes input using Scanner
 - Understood why Java input behaves differently from Python
 - Learnt to run Java from:
