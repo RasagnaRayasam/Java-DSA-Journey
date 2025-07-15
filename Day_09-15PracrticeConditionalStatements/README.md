@@ -1,4 +1,4 @@
-# 🚀 Day 9-14 - Java DSA Journey
+# 🚀 Day 9-15 - Java DSA Journey
 
 ## ✅ What I Did
 - Solved:
