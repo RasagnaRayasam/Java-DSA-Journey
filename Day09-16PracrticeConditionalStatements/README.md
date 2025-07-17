@@ -21,6 +21,7 @@
   - ✔Factorial of a number  
   - ✔Power of a number  
   - ✔Factor of a number
+  - 
 - Learnt how Java takes input using Scanner
 - Understood why Java input behaves differently from Python
 - Learnt to run Java from:
