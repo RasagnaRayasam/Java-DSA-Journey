@@ -21,7 +21,7 @@
   - ✔Factorial of a number  
   - ✔Power of a number  
   - ✔Factor of a number
-  - 
+
 - Learnt how Java takes input using Scanner
 - Understood why Java input behaves differently from Python
 - Learnt to run Java from:
@@ -74,4 +74,4 @@ Started with confusion and frustration.
 Ended with **clarity, patience**, and solid understanding. 
 
 🦸‍♀️ “Bit by bit, byte by byte — I’m building mastery in Java!”
-💜 Great progress, Rasagnaaa! Keep it going strong 🔥✨
+💜 Great progress, Rasagnaaa! Keep it going strong 🔥✨ 
