@@ -13,14 +13,7 @@
   - ✔Prime number within a given range  
   - ✔Sum of digits of a number  
   - ✔Reverse of a number  
-  - ✔Palindrome number  
-  - ✔Armstrong number  
-  - ✔Armstrong number in a given range  
-  - ✔Fibonacci Series up to nth term  
-  - ✔Find the Nth Term of the Fibonacci Series  
-  - ✔Factorial of a number  
-  - ✔Power of a number  
-  - ✔Factor of a number
+  - ✔Palindrome number 
 
 - Learnt how Java takes input using Scanner
 - Understood why Java input behaves differently from Python
