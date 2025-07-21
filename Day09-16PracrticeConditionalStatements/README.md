@@ -13,7 +13,8 @@
   - ✔Prime number within a given range  
   - ✔Sum of digits of a number  
   - ✔Reverse of a number  
-  - ✔Palindrome number 
+  - ✔Palindrome number
+  - ✔Armstrong Number
 
 - Learnt how Java takes input using Scanner
 - Understood why Java input behaves differently from Python
