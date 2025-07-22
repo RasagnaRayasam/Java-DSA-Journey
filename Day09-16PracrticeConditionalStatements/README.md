@@ -15,6 +15,7 @@
   - ✔Reverse of a number  
   - ✔Palindrome number
   - ✔Armstrong Number
+  - ✔Armstrong Numbers between Two Intervals 
 
 - Learnt how Java takes input using Scanner
 - Understood why Java input behaves differently from Python
